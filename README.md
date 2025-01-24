@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router Dom v6 where a nested route causes its parent route component to render twice. The issue is described in the bug.js file. The bugSolution.js file provides a solution to this problem.
